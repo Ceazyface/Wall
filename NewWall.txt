@@ -22,3 +22,13 @@ Buttons
 	on click:yield 1 handDamage
 	name:Punch wall
 	icon:http://i.imgur.com/108BtPH.png
+
+Resources
+	*money
+	name:Cash
+	
+	*totalMoney
+	name:Damage
+	
+	*handDamage
+        name:Hand damage
