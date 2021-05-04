@@ -32,3 +32,10 @@ Resources
 	
 	*handDamage
         name:Hand damage
+	
+Buildings
+	*destroyWall
+	name:Destroy wall
+	desc:"Destroy the wall and move on to a bigger one.</>Gives <b>25</b> bricks.</>Awards <b>250,000,000,000</b> cash.</>Worth <b>1</b> cosmic knowledge."
+	cost:1000000000000 totalMoney
+	gives:250000000000 money when bought
