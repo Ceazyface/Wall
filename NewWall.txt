@@ -6,7 +6,7 @@ Let's make a game!
 	updated:10/9/2017
 	version:2.4
 
-Settings :
+Settings
 	building cost increase:110%
 	building cost refund:75%
 	stylesheet:https://pastebin.com/raw/jMGmv0J5
