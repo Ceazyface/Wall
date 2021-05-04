@@ -1,7 +1,7 @@
 Let's make a game!
 	name:Wall Destroyer
 	by:Tellurium
-  desc:Hire goons to punch walls.<//>This is an import of Tellurium's old IGM game.
+  	desc:Hire goons to punch walls.<//>This is an import of Tellurium's old IGM game.
 	created:04/21/2014
 	updated:10/9/2017
 	version:2.4
